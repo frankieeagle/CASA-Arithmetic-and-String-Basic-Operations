@@ -1,3 +1,6 @@
+# Do not forget to change values for the variables fruit and s
+# Do not forget to comment out the lines of code that will trigger Type and Index errors.
+
 # Chapter 6.1 "A string is a sequence"
 
 # Chapter 6.2 "Getting the length of a string using len"
