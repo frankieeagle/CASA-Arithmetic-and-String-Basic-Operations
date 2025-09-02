@@ -12,7 +12,7 @@ In this Class Assignment (CASA), you need to execute the code given as examples 
 
 ## Instructions
 
-In the file casa_6.py, code the examples given in the assigned book chapter. To receive full credit, make the following modifications to the code:
+In the file casa_arithmetic_and_string_operations.py, code the examples given in the assigned book chapter. To receive full credit, make the following modifications to the code:
 
 *  Change the value of the variable **fruit** and **s** in all the programming statements that apply.
 *  Comment the lines of code (using the **#** character) that will trigger Type and Index errors.
